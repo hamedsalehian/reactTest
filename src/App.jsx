@@ -20,7 +20,6 @@ function App() {
         setData(JSON.stringify(modified) ) })
 
 
-  
   }
 
 
